@@ -138,6 +138,7 @@ p {
 	font-weight: 700;
 	font-style: normal;
 	font-size: 1rem;
+	padding-top: 20px;
 }
 
 /*
@@ -156,4 +157,10 @@ p {
 
 .bottom-p{
 	padding-bottom: 50px;
+}
+
+audio{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	width:600px;
 }
