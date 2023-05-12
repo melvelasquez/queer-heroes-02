@@ -31,6 +31,7 @@ h2 {
 	font-weight: 400;
 	font-style: normal;
 	font-size: 3rem; text-align: center;
+	padding-top:10px;
 }
 
 h3 { 
@@ -156,7 +157,7 @@ p {
 }
 
 .bottom-p{
-	padding-bottom: 50px;
+	padding-bottom: 20px;
 }
 
 audio{
