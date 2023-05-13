@@ -79,6 +79,7 @@ figcaption {
 .grid-container {
   display: grid;
   place-items: center;
+  padding-bottom: 15px;
 }
 
 footer {
